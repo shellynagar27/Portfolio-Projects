@@ -50,3 +50,9 @@ _Note_: all are .csv files
       showcase all the employee’s working under them (including 
       themselves) 
    9. show staff details along with their managers nam
+ 
+      ## Key Learnings
+      1. How to create Entity Relationship Diagram
+      2. How to create view
+      3. Recursive query use case
+      
