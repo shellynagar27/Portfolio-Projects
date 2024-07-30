@@ -1,7 +1,7 @@
 
 # Covid Deaths and Vaccination Data Analysis using SQL
 ---
-
+Aim is to explore data using SQL, and get answers to some questions using SQL queries.
 
 ## Tool
 ---
