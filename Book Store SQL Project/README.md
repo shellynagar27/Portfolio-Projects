@@ -51,8 +51,8 @@ _Note_: all are .csv files
       themselves) 
    9. show staff details along with their managers nam
  
-      ## Key Learnings
-      1. How to create Entity Relationship Diagram
-      2. How to create view
-      3. Recursive query use case
+ ## Key Learnings
+1. How to create Entity Relationship Diagram
+2. How to create view
+3. Recursive query use case
       
