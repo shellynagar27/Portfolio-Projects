@@ -39,7 +39,6 @@ _Note_: all are .csv files
    4. Create a view called "ContactList" that consists of a book's title, along with the brand name.
 &nbsp;
   - - - -
-&nbsp;
 * __Moderate/Advanced__
 
     5. What are the most expensive books according to category and 
