@@ -13,7 +13,7 @@
       * Removed rows with missing values using dropna().
    3. Counted and Removed Duplicate Rows:
       * Identified duplicate rows using duplicated().sum().
-      * Removed duplicate rows with drop_duplicates()[5].
+      * Removed duplicate rows with drop_duplicates().
    4. Bar Chart for Movie Releases:
       Plotted a bar chart to analyze the number of movies released each year from 1920 to 2024.
    5. Minimum and Maximum Ratings:
