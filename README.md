@@ -19,4 +19,15 @@ In this section I have included wide range of projects using various tools like 
 4. HR Analytics Dashboard
 5. PWC call Center Trend Analysis
 6. Hospital Data Analysis
+7. Sales Data Analysis
+8. Indian Election Data Analysis
+9. ATM Transaction Data Analysis
+10. Data Field Job Survey Data Analysis
+11. Virat kohli Cricket Career performance Analysis
 
+### Python-
+1. Automobile Dataset analysis
+2. IMDB movies dataset analysis
+3. Basic web scrapping project using BeautifulSoup and request libraries.
+
+### Tableau-
