@@ -7,27 +7,11 @@ In this projects we analyze book store sales data as per category, brand, custom
 ## Tool used
 MySQL
 
-## Files used 
-
-1. staffs
-2. products
-3. orders
-4. order_items
-5. customers
-6. categories
-7. brands
-8. stores
-9. stocks 
-&nbsp;
-
-_Note_: all are .csv files
-## Roadmap
+## Steps Taken
 1. book_store_sales database is created
 2. all csv files are imported
 3. ER (entity relationship diagram) is built.
 4. Questions were answered using- joins, view, Common Table Expression (CTE), windows functions like- row_number(), dense_rank(), and recursive queries
-
-
 
 ## Questions which are answered using sql queires
 
@@ -50,9 +34,24 @@ _Note_: all are .csv files
       showcase all the employee’s working under them (including 
       themselves) 
    9. show staff details along with their managers nam
- 
+
+## Analysis:
+   1. Sales Data Analysis:
+       * Category: Examined sales figures across different book categories to identify the most and least popular genres.
+       * Brand: Analyzed sales performance by book brands to determine which publishers had the highest sales.
+       * Customer: Assessed customer purchase patterns to identify high-value customers and understand their preferences.
+       * City: Evaluated sales distribution across various cities to determine regional sales trends and identify key markets.
+    2. Staff Data Analysis:
+       Utilized recursive queries to analyze the hierarchical relationships within the store’s staff, such as reporting structures and supervisory roles [2].
+    3.Entity Relationship Diagram (ERD):
+      Constructed an ERD to illustrate the relationships between different tables in the database, such as sales, staff, customers, and products. This helped in 
+      understanding the data structure and ensuring efficient data management
+
  ## Key Learnings
 1. How to create Entity Relationship Diagram
 2. How to create view
 3. Recursive query use case
+
+## Outcome
+The combined analysis of sales and staff data provided comprehensive insights into the operational and financial aspects of the book store, aiding in strategic decision-making and performance optimization.
       
