@@ -1,7 +1,7 @@
 
 # Book Store Sales Data Analysis
 
-In this projects we analyze book store sales data as per category, brand, customer, city. We also used recursive query to analyze staff data of the store.
+In this project, I conducted a thorough analysis of book store sales and staff data to gain insights into various aspects of the business.
 
 
 ## Tool used
