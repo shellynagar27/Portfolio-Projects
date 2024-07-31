@@ -41,9 +41,9 @@ MySQL
        * Brand: Analyzed sales performance by book brands to determine which publishers had the highest sales.
        * Customer: Assessed customer purchase patterns to identify high-value customers and understand their preferences.
        * City: Evaluated sales distribution across various cities to determine regional sales trends and identify key markets.
-    2. Staff Data Analysis:
+   2. Staff Data Analysis:
        Utilized recursive queries to analyze the hierarchical relationships within the store’s staff, such as reporting structures and supervisory roles [2].
-    3.Entity Relationship Diagram (ERD):
+   3.Entity Relationship Diagram (ERD):
       Constructed an ERD to illustrate the relationships between different tables in the database, such as sales, staff, customers, and products. This helped in 
       understanding the data structure and ensuring efficient data management
 
