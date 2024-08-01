@@ -57,5 +57,6 @@
       Determined when to use Simple Linear Regression (SLR), Multiple Linear Regression (MLR), and Polynomial Fit based on the data.
 
 ## Key Insights:
+---
    * The analysis provided a comprehensive understanding of various factors affecting car prices.
    * Visualizations and statistical models highlighted important trends and relationships within the dataset.
