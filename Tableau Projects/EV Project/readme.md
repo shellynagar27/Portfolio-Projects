@@ -1,5 +1,6 @@
 # Electric Vehicle Data Analysis
-
+This project is a recreation from the Data Tutorials YouTube Video. The link to the playlist is provided below.
+[EV Project](https://www.youtube.com/watch?v=Y22CBLeHffg&list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_&index=27)
 ## Situation
 The electric vehicle (EV) market is experiencing rapid growth, driven by technological advancements and increasing environmental concerns. A comprehensive analysis was needed to understand market dynamics, trends, and regional differences in the adoption of EVs in the USA.
 
