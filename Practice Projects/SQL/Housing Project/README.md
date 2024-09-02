@@ -2,7 +2,7 @@
 # Nashville housing Data Cleaning SQL Project
 
 The Nashville Housing Data Cleaning Project aimed to learn and apply SQL techniques for effective data cleaning.
-
+This project is a replication of a tutorial from [Alex The Analyst's YouTube Video](https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3).
 ## Tool used
 Microsoft SQL Server
 
