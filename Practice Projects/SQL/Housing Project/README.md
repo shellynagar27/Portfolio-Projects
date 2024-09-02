@@ -19,7 +19,7 @@ Microsoft SQL Server
       Leveraged PARSENAME() for handling delimited data and REPLACE() for cleaning and standardizing text data within columns.
    6. Removing Duplicate Data:
       Used SQL window functions and other techniques to identify and eliminate duplicate rows, ensuring data integrity and accuracy.
-   7.Deleting Unused Columns:
+   7. Deleting Unused Columns:
      Optimized the dataset by dropping columns that were redundant or no longer necessary, thus improving database performance and manageability.
 
 ## Oucome
