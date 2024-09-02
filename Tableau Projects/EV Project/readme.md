@@ -33,4 +33,4 @@ These insights enabled stakeholders to understand market trends, regional differ
 # Tools Used:
   * Tableau
   * [Flaticon](https://www.flaticon.com/)
-  * [Coolrs](https://coolors.co/palettes/trending)
+  * [Coolors](https://coolors.co/palettes/trending)
