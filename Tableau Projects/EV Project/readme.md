@@ -30,3 +30,7 @@ The Power BI dashboard provided a clear and comprehensive view of the electric v
 
 # Outcome
 These insights enabled stakeholders to understand market trends, regional differences, and the competitive landscape, facilitating strategic decision-making.
+# Tools Used:
+  * Tableau
+  * [Flaticon](https://www.flaticon.com/)
+  * [Coolrs](https://coolors.co/palettes/trending)
