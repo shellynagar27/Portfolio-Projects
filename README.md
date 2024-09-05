@@ -28,6 +28,8 @@ In this section I have included wide range of projects using various tools like 
 ### Python-
 1. Automobile Dataset analysis
 2. IMDB movies dataset analysis
-3. Basic web scrapping project using BeautifulSoup and request libraries.
+3. Electric Vehicle Market Analysis and Future Growth Prediction
+4. Basic web scrapping project using BeautifulSoup and request libraries.
 
 ### Tableau-
+1. Electric Vehicle Market Analysis
