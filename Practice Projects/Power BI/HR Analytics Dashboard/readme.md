@@ -23,3 +23,8 @@ To develop an interactive dashboard that offers a clear, data-driven perspective
 - The **average employee age** is **37 years**.
 
 This project offers valuable insights into employee attrition patterns, helping organizations identify at-risk groups and implement retention strategies effectively.
+
+## Tools Used:
+  * [Freepik](https://www.freepik.com/)
+  * [Flaticon](https://www.flaticon.com/)
+  * [Coolors](https://coolors.co/palettes/trending)
