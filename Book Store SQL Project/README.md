@@ -35,6 +35,9 @@ MySQL
       themselves) 
    9. show staff details along with their managers nam
 
+## ER Diagram-
+![Uploading Book Store SQL Project Schema.png…]()
+
 ## Analysis:
    1. Sales Data Analysis:
        * Category: Examined sales figures across different book categories to identify the most and least popular genres.
