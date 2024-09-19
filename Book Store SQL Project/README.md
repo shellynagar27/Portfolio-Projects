@@ -35,7 +35,8 @@ MySQL
       themselves) 
    9. show staff details along with their managers nam
 
-## [ER Diagram-]([http://url/to/image.png](https://drive.google.com/file/d/1cXwABR9GJ60u93sGIHx9xyN_T7UVd9FS/view?usp=sharing))
+## ER Diagram-
+![Data Model]([http://url/to/image.png](https://drive.google.com/file/d/1cXwABR9GJ60u93sGIHx9xyN_T7UVd9FS/view?usp=sharing))
 
 ## Analysis:
    1. Sales Data Analysis:
