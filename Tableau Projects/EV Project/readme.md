@@ -5,7 +5,7 @@ This project is a recreation from the Data Tutorials YouTube Video. The link to 
 The electric vehicle (EV) market is experiencing rapid growth, driven by technological advancements and increasing environmental concerns. A comprehensive analysis was needed to understand market dynamics, trends, and regional differences in the adoption of EVs in the USA.
 
 ## Task
-The task was to create a detailed Power BI dashboard to analyze the electric vehicle market, including average EV range, market share of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), state-wise distribution, CAFV eligibility, top EV manufacturers, and year-over-year (YoY) growth in EV numbers.
+The task was to create a detailed dashboard to analyze the electric vehicle market, including average EV range, market share of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), state-wise distribution, CAFV eligibility, top EV manufacturers, and year-over-year (YoY) growth in EV numbers.
 
 ## Action
    * Data Collection and Preparation: Gathered data from various reliable sources on EV sales, average ranges, market shares, state-wise distribution, and manufacturer information.
